@@ -17,7 +17,7 @@ and cybersecurity-focused applications.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kresi-chabhadiya">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
