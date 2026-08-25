@@ -16,8 +16,8 @@ Currently exploring Machine Learning, Computer Vision, Generative AI,
 and cybersecurity-focused applications.
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-LINK">
-    <img src="https://www.linkedin.com/in/kresi-chabhadiya">
+  <a href="https://www.linkedin.com/in/kresi-chabhadiya">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge">
   </a>
 </p>
 
