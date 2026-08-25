@@ -69,20 +69,9 @@ and cybersecurity-focused applications.
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-<h2>🐍 Contribution Activity</h2>
+## 🐍 Contribution Activity
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake.svg">
-
-    <img
-      src="https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake.svg"
+![GitHub Contribution Snake](https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake.svg)"https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake.svg"
       alt="GitHub Contribution Snake">
   </picture>
 </p>
