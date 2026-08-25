@@ -28,29 +28,6 @@ and cybersecurity-focused applications.
 ### 💻 Programming
 
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg">
-
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg">
-  </picture>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
 ### 🤖 AI, ML & Generative AI
 
 <p>
@@ -90,4 +67,22 @@ and cybersecurity-focused applications.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+<h2>🐍 Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake-dark.svg">
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake.svg">
+
+    <img
+      src="https://raw.githubusercontent.com/kresichabhadiya/kresichabhadiya/output/github-snake.svg"
+      alt="GitHub Contribution Snake">
+  </picture>
 </p>
