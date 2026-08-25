@@ -38,9 +38,3 @@ Git • GitHub • Postman • AWS
 - Generative AI
 - Cloud Technologies
 - Data Structures & Algorithms
-
-## 📫 Connect With Me
-
-- LinkedIn: Coming Soon
-- Portfolio: Coming Soon
-- Email: Coming Soon
