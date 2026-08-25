@@ -27,6 +27,25 @@ and cybersecurity-focused applications.
 
 ### 💻 Programming
 
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake-dark.svg">
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg">
+
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-snake.svg">
+  </picture>
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
